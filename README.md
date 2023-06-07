@@ -4,11 +4,10 @@ This repository contains code examples and resources for a JWT Authentication tu
 ## Tutorial Series
 The tutorial series covers the following topics:
 
-## Introduction to JWT Authentication
-Setting Up the Project Environment
-User Registration and Login
-Implementing JWT Token Generation and Verification
-Protecting Routes with JWT Authentication
-Adding Refresh Tokens for Session Management
-Handling JWT Authentication Errors and Logging Out
-Each tutorial video provides step-by-step explanations and practical demonstrations of implementing JWT authentication in a web application. The code examples accompanying each tutorial are organized in separate branches in this repository.
+1. Introduction to JWT Authentication
+2. Setting Up the Project Environment
+3. User Registration and Login
+4. Implementing JWT Token Generation and Verification
+5. Protecting Routes with JWT Authentication
+6. Adding Refresh Tokens for Session Management
+7. Handling JWT Authentication Errors and Logging Out
